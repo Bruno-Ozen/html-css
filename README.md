@@ -194,7 +194,7 @@ Ele também documenta uma habilidade importante: reconhecer quando ainda não h�
 
 ## Autor
 
-Desenvolvido por **Bruno Ozen** como registro de estudos iniciais em HTML5 e CSS3.
+Desenvolvido por **Bruno Henrique de Pinho** como registro de estudos iniciais em HTML5 e CSS3.
 
 - GitHub: [Bruno-Ozen](https://github.com/Bruno-Ozen)
 - Repositório: [html-css](https://github.com/Bruno-Ozen/html-css)
